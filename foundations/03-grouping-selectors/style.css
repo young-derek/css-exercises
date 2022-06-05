@@ -7,7 +7,8 @@
     background-color: yellow;
 }
 
-.button--black-background, .button--yellow-background {
+.button--black-background,
+.button--yellow-background {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
